@@ -6,6 +6,8 @@ import { useState } from "react";
 import { format } from "date-fns";
 import { DateRange } from "react-date-range";
 import SearchItem from "../../components/searchItem/SearchItem";
+import Footer from "../../components/footer/Footer";
+import MailList from "../../components/mailList/MailList";
 
 const List = () => {
 	const location = useLocation();
@@ -98,6 +100,10 @@ const List = () => {
 						<SearchItem />
 					</div>
 				</div>
+			</div>
+			<div className="lsFooter">
+				<MailList />
+				<Footer />
 			</div>
 		</div>
 	);
