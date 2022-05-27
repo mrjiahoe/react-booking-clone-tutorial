@@ -100,8 +100,6 @@ const List = () => {
 						<SearchItem />
 					</div>
 				</div>
-			</div>
-			<div className="lsFooter">
 				<MailList />
 				<Footer />
 			</div>

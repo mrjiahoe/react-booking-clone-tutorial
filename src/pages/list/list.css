@@ -1,12 +1,13 @@
 .listContainer {
 	display: flex;
-	justify-content: center;
+	flex-direction: column;
+	align-items: center;
 	margin-top: 20px;
 }
 
 .listWrapper {
 	width: 100%;
-	max-width: 1750px;
+	max-width: 1400px;
 	display: flex;
 	gap: 20px;
 }
@@ -82,13 +83,4 @@
 
 .listResult {
 	flex: 3;
-}
-
-.lsFooter {
-	width: 100%;
-	display: flex;
-	flex-direction: column;
-	align-items: center;
-	justify-content: center;
-	gap: 25px;
 }

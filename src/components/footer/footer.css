@@ -1,6 +1,6 @@
 .footer {
 	width: 100%;
-	max-width: 1024px;
+	max-width: 1400px;
 	font-size: 12px;
 }
 
@@ -8,6 +8,7 @@
 	width: 100%;
 	display: flex;
 	justify-content: space-between;
+	margin-top: 20px;
 	margin-bottom: 50px;
 }
 
@@ -20,4 +21,8 @@
 	margin-bottom: 10px;
 	color: #003580;
 	cursor: pointer;
+}
+
+.fText {
+	margin-bottom: 30px;
 }
