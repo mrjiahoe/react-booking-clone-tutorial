@@ -1,5 +1,6 @@
-# Booking clone with React Js tutorial
+# React Admin Dashboard Tutorial
 
-## A hotel reservation app UI design using HTML, CSS, and React Calendar
+## Build following tutorial by [Lama Dev](https://www.youtube.com/watch?v=yKV1IGahXqA)
 
-## Build following tutorial by [Lama Dev](https://www.youtube.com/watch?v=RkWpJ4XUHuw)
+<img src="lightmode.jpg" alt="screenshot of lightmode" height="50%">
+<img src="darkmode.jpg" alt="screenshot of darkmode" height="50%">
